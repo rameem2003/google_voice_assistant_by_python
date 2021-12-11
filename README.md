@@ -1,5 +1,5 @@
-# Google Voice Assistant By Python
-## By Mahmood Hassa Rameem
+# Google Voice Assistant using Python
+## By Mahmood Hassan Rameem
 ## _Styding diploma engineering_
 ---
 
@@ -9,9 +9,9 @@
 
 <br/>
 
-## First python is must install in your pc
-## To run the code you need some python package
-## Just copy this line in your code editor terminal
+### First python is must install in your pc
+### To run the code you need some python package
+### Just copy this line & paste in your code editor terminal
 
 ```
 pip install SpeechRecognition

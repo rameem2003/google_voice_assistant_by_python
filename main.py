@@ -47,8 +47,8 @@ def run_google():
     command = take_command()
     if 'time' in command:
         time = datetime.datetime.now().strftime('%I:%M %p')
-        talk("Current time is" + time)
         print(time)
+        talk("Current time is" + time)
 
     elif 'play' in command:
         song = command.replace('play', '')
