@@ -12,7 +12,7 @@ import datetime
 # Package for song
 import pywhatkit
 
-# for wikipidia
+# for wikipedia
 import wikipedia
 
 
